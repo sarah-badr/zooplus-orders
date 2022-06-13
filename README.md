@@ -16,8 +16,3 @@ Implement a Rest API that
 2. Query an order:
  - Should return order details and tracking information.
 
-
-
-If you think some requirements are missing feel free to make some assumptions.
-
-
