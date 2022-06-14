@@ -16,5 +16,5 @@ Implement a Rest API that
 2. Query an order:
  - Should return order details and tracking information.
 
-3. Plus: Fully or Partially update on Order.
+3. **Extra**: Fully or Partially update on Order.
 
